@@ -11,7 +11,7 @@ public class Q02_EskenarUcgen {
         double kenar1= scan.nextDouble();
         double kenar2= scan.nextDouble();
         double kenar3= scan.nextDouble();
-        System.out.println((kenar1==kenar2 && kenar2==kenar3 && kenar3==kenar1)
+        System.out.println((kenar1==kenar2 && kenar2==kenar3)
                            ? " Eskenar ucgen"
                            : " Eskenar ucgen degil");
     }

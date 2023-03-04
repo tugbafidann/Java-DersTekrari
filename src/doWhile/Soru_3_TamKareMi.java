@@ -1,6 +1,6 @@
 package doWhile;
 
-public class TamKareMi {
+public class Soru_3_TamKareMi {
     public static void main(String[] args) {
         //Soru 3- Kullanicidan bir pozitif sayi isteyin,
         // sayının tam kare olup olmadığını bulunuz,

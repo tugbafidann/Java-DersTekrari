@@ -2,7 +2,7 @@ package SampleQuestionSorular_2;
 
 import java.util.Scanner;
 
-public class C28_SayiTerstenYazdir {
+public class Q_28_SayiTerstenYazdir {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
 
